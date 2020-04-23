@@ -5,7 +5,7 @@ window.onload = function(){
   var noun = ['cunt ','retard ','rapist ', 'cocksucker ', 'maniac ', 'motherfucker ', 'loser ', 'sewer orphan ','ginger ', 'banshee ', 'fuck-head ', 'fuck-ass '];
   var action = ['blew up ', 'killed my ', 'raped my ' , 'kicked my ', 'stole my ', 'shot my ', 'ate my ', 'desolated my ', 'sucked my ', 'banged my ', 'did it for tha '];
   var possetion = ['biscuit ', 'bike ', 'kid ', 'dog ', 'youth ', 'life ', 'children ', 'cunt ', 'girl ', 'monkey ', 'ass ', 'cat '];
-  var where = ['at the beach','on some gang shii','at the park', 'at walmart', 'in the sewers', 'outside', 'in the fourth dimension', 'on god', 'fr', 'on some fuck shii', '', '', '', ''];
+  var where = ['at the beach','on some gang shii','at the park', 'at walmart', 'in the sewers', 'outside', 'in the fourth dimension', 'on god', 'fr', 'on some fuck shii', '', '', '', '', '', '', '', '', '', '', '', ''];
   
   // declaring random variables
    var rdm1 = Math.floor((Math.random() * adj.length) );
