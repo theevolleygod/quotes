@@ -1,7 +1,7 @@
 window.onload = function(){
   //array with the words
   var first = 'A ';
-  var adj = ['retarded ', 'shit-for-brain ', 'tyranical ', 'miserable ','crazed ','hideious  ','smelly ','fat ','senile ', 'good-for-nothing ', 'dispicable ' ];
+  var adj = ['retarded ', 'kold-blooded ', 'shit-for-brain ', 'tyranical ', 'miserable ','crazed ','hideious  ','smelly ','fat ','senile ', 'good-for-nothing ', 'dispicable ' ];
   var noun = ['cunt ','retard ','rapist ', 'whore ', 'cocksucker ', 'maniac ', 'motherfucker ', 'loser ', 'sewer orphan ','ginger ', 'banshee ', 'fuck-head ', 'fuck-ass '];
   var action = ['blew up my', 'killed my ', 'raped my ' , 'kicked my ', 'stole my ', 'shot my ', 'ate my ', 'desolated my ', 'sucked my ', 'banged my ', 'did it for tha '];
   var possetion = ['biscuit ', 'bike ', 'kid ', 'dog ', 'youth ', 'life ', 'children ', 'cunt ', 'girl ', 'monkey ', 'ass ', 'cat '];
