@@ -1,8 +1,8 @@
 window.onload = function(){
   //array with the words
   var first = 'A ';
-  var adj = ['retarded ', 'kold-blooded ', 'shit-for-brain ', 'tyranical ', 'miserable ', 'leftist', 'crazed ','hideious  ','smelly ','fat ','senile ', 'good-for-nothing ', 'dispicable ' ];
-  var noun = ['cunt ','retard ','rapist ', 'democrat ', 'jew ', 'antifa ', 'whore ', 'cocksucker ', 'maniac ', 'motherfucker ', 'loser ', 'sewer orphan ','ginger ', 'banshee ', 'fuck-head ', 'fuck-ass '];
+  var adj = ['retarded ', 'kold-blooded ', 'shit-for-brain ', 'tyranical ', 'miserable ', 'leftist ', 'misanthropic ', 'cis-gendered ', 'crazed ','hideious  ','smelly ','fat ','senile ', 'good-for-nothing ', 'dispicable ' ];
+  var noun = ['cunt ','retard ','rapist ', 'democrat ', 'jew ', 'antifa ', 'whore ', 'feminist ', 'ephebophile', 'cocksucker ', 'maniac ', 'motherfucker ', 'loser ', 'sewer orphan ','ginger ', 'banshee ', 'fuck-head ', 'fuck-ass '];
   var action = ['blew up my ', 'killed my ', 'raped my ' , 'kicked my ', 'stole my ', 'shot my ', 'ate my ', 'desolated my ', 'sucked my ', 'banged my ', 'did it for tha '];
   var possetion = ['biscuits ', 'bike ', 'kid ', 'dog ', 'youth ', 'life ', 'children ', 'cunt ', 'girl ', 'monkey ', 'ass ', 'cat '];
   var where = ['at the beach','on some gang shii','at the park', 'at walmart', 'in the sewers', 'outside', '-- now THATs gansta!', 'in the fourth dimension', 'on god', 'fr', 'on some fuck shii', '', '', '', '', '', '', '', '', '', '', '', ''];
