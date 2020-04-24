@@ -4,7 +4,7 @@ window.onload = function(){
   var adj = ['retarded ', 'dirty little ', 'kold-blooded ', 'shit-for-brain ', 'tyranical ', 'bitter ', 'miserable ', 'leftist ', 'misanthropic ', 'cis-gendered ', 'crazed ','hideious  ','smelly ','fat ','senile ', 'good-for-nothing ', 'dispicable '];
   var noun = ['cunt ','retard ','rapist ', 'psycho ', 'democrat ', 'jew ', 'antifa ', 'whore ', 'feminist ', "women's rights activist ", 'SJW ', 'cocksucker ', 'maniac ', 'motherfucker ', 'loser ', 'sewer orphan ','ginger ', 'banshee ', 'fuck-head ', 'fuck-ass '];
   var action = ['blew up my ', 'killed my ', 'raped my ', 'broke ', 'kicked my ', 'twerked on my ', 'stomped my ', 'stole my ', 'shot my ', 'rode my ', 'ate my ', 'shidded on my ', 'desolated my ', 'sucked my ', 'banged my ', 'did it for tha '];
-  var possetion = ['biscuits ', 'bike ', 'kid ', 'dog ', 'youth ', 'mind ', 'hopes and dreams ', 'life ', 'children ', 'cunt ', 'girl ', 'ape ', 'ass ', 'cat '];
+  var possetion = ['biscuits ', 'bike ', 'kid ', 'dog ', 'youth ', 'mind ', 'hopes and dreams ', 'life ', 'children ', 'cunt ', 'girl ', 'ass ', 'cat '];
   var where = ['at the beach',', on some gang shii','at the park', 'on the curb ', 'in the sewers', 'outside', '-- now THATs gansta!', 'in the fourth dimension', 'on god', 'fr', '', ' WTF', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', ''];
   
   // declaring random variables
