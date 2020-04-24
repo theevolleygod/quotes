@@ -5,7 +5,7 @@ window.onload = function(){
   var noun = ['cunt ','retard ','rapist ', 'democrat ', 'jew ', 'antifa ', 'whore ', 'feminist ', "women's rights activist ", 'SJW ', 'cocksucker ', 'maniac ', 'motherfucker ', 'loser ', 'sewer orphan ','ginger ', 'banshee ', 'fuck-head ', 'fuck-ass '];
   var action = ['blew up my ', 'killed my ', 'raped my ', 'kicked my ', 'twerked on my ', 'stomped my ', 'stole my ', 'shot my ', 'rode my ', 'ate my ', 'shidded on my ', 'desolated my ', 'sucked my ', 'banged my ', 'did it for tha '];
   var possetion = ['biscuits ', 'bike ', 'kid ', 'dog ', 'youth ', 'life ', 'children ', 'cunt ', 'girl ', 'ape ', 'ass ', 'cat '];
-  var where = ['at the beach','on some gang shii','at the park', 'on the curb ', 'in the sewers', 'outside', '-- now THATs gansta!', 'in the fourth dimension', 'on god', 'fr', 'on some fuck shii', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', ''];
+  var where = ['at the beach',', on some gang shii','at the park', 'on the curb ', 'in the sewers', 'outside', '-- now THATs gansta!', 'in the fourth dimension', 'on god', 'fr', 'on some fuck shii', 'tho', ' WTF', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', ''];
   
   // declaring random variables
    var rdm1 = Math.floor((Math.random() * adj.length) );
